@@ -56,7 +56,18 @@ Steps I followed:
 
    - Copy + paste password and login.
 
-4. Create Front End and Back End
-5. Create Dockerfiles
-6. 
-   
+4. Create Front End, Back End, and connect
+   ![Screenshot 2024-10-30 103055](https://github.com/user-attachments/assets/cd36efe6-c463-405c-8145-2b4f0f8e5908)
+
+6. Create Dockerfiles
+7. Docker Build
+   ![Screenshot 2024-10-26 150817](https://github.com/user-attachments/assets/9d5bf106-0593-4593-b357-87a0f924dd36)
+   ![Screenshot 2024-10-26 150921](https://github.com/user-attachments/assets/9075b998-aa1c-493a-9c79-c19b91d8b9b6)
+
+8. Add images to Jfrog
+![Screenshot 2024-10-26 154308](https://github.com/user-attachments/assets/dea1a98e-65cc-4ef9-9960-93653b433727)
+
+![Screenshot 2024-10-26 163003](https://github.com/user-attachments/assets/a5c3b18c-3e3b-4e7d-a181-a58878e1f56a)
+![Screenshot 2024-10-26 163434](https://github.com/user-attachments/assets/5e95fcef-553c-4257-a95c-3dabc1577f4d)
+
+
