@@ -56,6 +56,7 @@ Steps I followed:
 
    - Copy + paste password and login.
 
-4. Create Docker Public Image
-   
+4. Create Front End and Back End
+5. Create Dockerfiles
+6. 
    
