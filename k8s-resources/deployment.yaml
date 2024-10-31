@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx
+  namespace: foo # Namespace for resource isolation
+  labels:
+    app: nginx # Label to identify all resources related to this deployment
+spec:
+  replicas: 1 # Number of replica pods to maintain availability
+  selector:
+    matchLabels:
+      app: nginx # Select pods with the label 'app: nginx'
+  template:
+    metadata:
+      labels:
+        app: nginx # Label for pods created by this deployment
+    spec:
+      containers:
+        - name: nginx
+          image: ptieman/mynginx:v0.1.0 # Container image to use
+          ports:
+            - containerPort: 80 # Port to expose on the container
+          imagePullPolicy: Always # Ensure the required version of the container image is pulled every timed
