@@ -1,4 +1,4 @@
-# Specify the base image
+git # Specify the base image
 FROM node:alpine
 # Set the working directory
 WORKDIR /app
