@@ -70,4 +70,6 @@ Steps I followed:
 ![Screenshot 2024-10-26 163003](https://github.com/user-attachments/assets/a5c3b18c-3e3b-4e7d-a181-a58878e1f56a)
 ![Screenshot 2024-10-26 163434](https://github.com/user-attachments/assets/5e95fcef-553c-4257-a95c-3dabc1577f4d)
 
+9. Create Workflows
+    ![image](https://github.com/user-attachments/assets/7aa1974b-be3a-4ffc-9a50-d0de10ec87d2)
 
